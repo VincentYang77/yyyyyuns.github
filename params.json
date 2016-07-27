@@ -1,6 +1,6 @@
 {
   "name": "angularjs学习笔记",
   "tagline": "",
-  "body": "**### 1.controller之间的通信**\r\n* $emit只能向parent controller传递event与data\r\n* $broadcast只能向child controller传递event与data\r\n* $on用于接收event与data\r\n\r\n**### 2.ng-app匿名**\r\n匿名自动初始化\r\nview层作用域\r\n\r\n**### 3.**\r\n\r\n**### 4.**\r\n\r\n**### 5.**\r\n",
+  "body": "**### 1.controller之间的通信**\r\n* $emit只能向parent controller传递event与data\r\n* $broadcast只能向child controller传递event与data\r\n* $on用于接收event与data\r\n\r\n**### 2.ng-app匿名**\r\n* 匿名自动初始化\r\n* view层作用域\r\n\r\n**### 3.**\r\n\r\n**### 4.**\r\n\r\n**### 5.**\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
